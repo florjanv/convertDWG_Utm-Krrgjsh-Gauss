@@ -3,7 +3,7 @@ Conversions of DWG files between coordinate systems UTM-Gauss-KRRGJSH (Albanian 
 
 Requirements: ArcGIS Desktop 10.5+, Windows 7 or 10.
 
-The script it is tested in arcgis 10.5 and 10.7
+The script it is tested in arcgis 10.5 and 10.7. You need to donwload just the toolbox file and save it in your computer. If you are interested in programing i have loaded also the source code.
 
 Using the script:
 
@@ -30,6 +30,6 @@ It may fail in the first run. Just close/open arcmap and run the script again.  
 
 This will happen because arcmap dont recognize the new Custom Geographic Transformation at the first run.
 
-# method
+# Method
 
 The script use coordinate frame method and the 7 parameters are downloaded by official site of Albania National Agency for Geoinformation (www.asig.gov.al).
