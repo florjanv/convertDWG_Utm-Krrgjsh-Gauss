@@ -3,7 +3,7 @@ Conversions of DWG files between coordinate systems UTM-Gauss-KRRGJSH (Albanian 
 
 Requirements: ArcGIS Desktop 10.5+, Windows 7 or 10.
 
-The script it is tested in arcgis 10.5 and 10.7. You need to donwload just the toolbox file and save it in your computer. If you are interested in programing i have loaded also the source code.
+The script it is tested in arcgis 10.5 and 10.7. You need to download just the toolbox file and save it in your computer. If you are interested in programing i have loaded also the source code.
 
 Using the script:
 
@@ -19,7 +19,7 @@ Using the script:
 
 		ETRS_1989_Albania_2010
 
-4 - Run the tools. It will create at same directory two new files.
+4 - Run the tools. It will create at the same directory two new converted files.
 
 # DWG - Format
 
