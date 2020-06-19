@@ -21,7 +21,15 @@ Using the script:
 
 4 - Run the tools. It will create at same directory two new files.
 
+# DWG - Format
+
+The DWG should contain just Points, Lines, Polylines, Polygons, Text. All other CAD objects will be ignored and won't be transferred in converted files.
+
 # Attention
 It may fail in the first run. Just close/open arcmap and run the script again.  (this will happen once in your PC)
 
 This will happen because arcmap dont recognize the new Custom Geographic Transformation at the first run.
+
+# method
+
+The script use coordinate frame method and the 7 parameters are downloaded by official site of Albania National Agency for Geoinformation (www.asig.gov.al).
